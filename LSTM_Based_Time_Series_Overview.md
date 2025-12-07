@@ -1,9 +1,9 @@
 **GROUP MEMBERS:**
--GARCES, Jonathan
--INGKING, Russel
--LACADEN, Jeremiah
--PINGEN, Denver Ace
--YACAPIN, Neil John
+- GARCES, Jonathan
+- INGKING, Russel
+- LACADEN, Jeremiah
+- PINGEN, Denver Ace
+- YACAPIN, Neil John
 
 # LSTM-Based Time Series Forecasting for Airline Passenger Traffic: A Comprehensive Overview
 
